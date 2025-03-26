@@ -69,7 +69,7 @@ Detects unsupported file formats and exits gracefully
 
 ✨ Author : ANIKET D MAHALLE
 
-👨‍💻 Your Name📧 MAHALLEANIKET22@GMAIL.COM
+👨‍💻 Name📧 MAHALLEANIKET22@GMAIL.COM
 
 📜 License
 
